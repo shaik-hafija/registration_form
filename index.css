@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://media.istockphoto.com/id/1471533074/photo/exam-answer-sheet-pile-blurry-application-document-paperwork-stack-on-office-work-table-in.webp?b=1&s=170667a&w=0&k=20&c=gkn7LmRX0QLwjtnh4eRcTBLPd6IMc3yIiQkv84X60qE=');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif; /* Or any other desired font */
+}
+
+.container {
+    text-align: center;
+    box-shadow: inset;
+    background-color: rgba(255, 255, 255, 0.8); /* Adjust opacity as needed */
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px auto; /* Center the container horizontally */
+    max-width: 500px;
+    height: 500px; /* Adjust width as needed */
+}
+input
+{
+margin-top: 10px;
+width: 252px;
+height: 40px;
+border-color: rgb(240, 159, 159);}
+
+
+/* Add other styles as needed */
